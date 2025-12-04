@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer | BCA Candidate (Year 3)
+Software Engieer | MCA Candidate 
 
 
 ## 🌐 Socials:
