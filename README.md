@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engieer | MCA Candidate 
+Software Engineer | MCA Candidate 
 
 
 ## 🌐 Socials:
