@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/mddawoodrahman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/mddawoodrahman"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://instagram.com/dawoodvibe"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -24,67 +20,56 @@
 Name: Md Dawood Rahman
 Role: Software Engineer (MCA Candidate)
 Focus: Full-Stack + AI Applications + Cloud
-Architecture Mindset:
-  - Scalable systems
-  - Clean UI/UX
-  - API-first design
-  - Performance optimized
+Location: India 🇮🇳
+
+Core Skills:
+  - Frontend: React, Next.js, Tailwind
+  - Backend: Node.js, Django, Express
+  - Databases: PostgreSQL, MongoDB, MySQL
+  - DevOps: Docker, GitHub Actions, Azure, Vercel
+  - AI: OpenAI, Gemini, Claude APIs
+
+Strength:
+  → Building real-world scalable products
 ```
 
 ---
 
-## 🚀 Featured Projects (Product Style)
+## 🚀 Featured Projects
 
 ### 🧩 Medusa — Cloud Storage Platform
 
-```diff
-+ Secure file storage + sharing
-+ Real-time file management
-+ Analytics dashboard
-+ Public shareable links
-```
-
-### 🏋️ Wixon Gym — AI Fitness SaaS
-
-```diff
-+ AI workout & nutrition assistant
-+ Subscription + payment system
-+ Role-based dashboard
-+ Real-time booking system
-```
-
-### ⚡ Zeus — AI Chrome Extension
-
-```diff
-+ Prompt auto-enhancement
-+ Multi-model AI support
-+ One-click rewrite system
-+ Works across ChatGPT, Gemini, Claude
-```
+* Secure file storage + sharing system
+* Drag & drop uploads + analytics dashboard
+* Public shareable links + real-time management
 
 ---
 
-## 🏗️ Architecture Thinking
+### 🏋️ Wixon Gym — AI Fitness SaaS
 
-```mermaid
-graph TD
-    A[Frontend - Next.js / React] --> B[API Layer]
-    B --> C[Backend - Node.js / Django]
-    C --> D[Database - PostgreSQL / MongoDB]
-    C --> E[AI APIs - OpenAI / Gemini / Claude]
-    C --> F[Auth - Clerk / JWT]
-    B --> G[Deployment - Vercel / Azure]
-```
+* AI workout + nutrition assistant
+* Membership system + payments (PayPal)
+* Role-based dashboard + booking system
+
+---
+
+### ⚡ Zeus — AI Chrome Extension
+
+* Auto-enhance prompts across ChatGPT, Gemini, Claude
+* One-click rewrite + context menu
+* Multi-model switching system
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 💻 Core
+### 💻 Languages
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat\&logo=python)
-![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=flat\&logo=typescript)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat\&logo=python\&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-333?style=flat\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=flat\&logo=typescript)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat\&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat\&logo=css3)
 
 ### 🧱 Frameworks
 
@@ -97,15 +82,16 @@ graph TD
 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=flat\&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/mongodb-4ea94b?style=flat\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat\&logo=mysql)
 
-### ☁️ DevOps
+### ☁️ Cloud & DevOps
 
 ![Azure](https://img.shields.io/badge/azure-0078D4?style=flat\&logo=microsoft-azure)
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=flat\&logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/actions-2671E5?style=flat\&logo=github-actions)
 ![Vercel](https://img.shields.io/badge/vercel-black?style=flat\&logo=vercel)
 
-### 🤖 AI Stack
+### 🤖 AI
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=flat\&logo=openai)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat\&logo=google)
@@ -126,17 +112,17 @@ graph TD
 
 ---
 
-## 🧩 Current Focus
+## 🧩 What I’m Building
 
-* 🚀 Building AI SaaS products
-* ⚡ Scaling full-stack architectures
-* 🧠 Exploring advanced AI integrations
+* AI-powered SaaS products
+* Scalable cloud-based platforms
+* Developer tools & browser extensions
 
 ---
 
 ## 💡 Philosophy
 
-> "Build scalable products, not just projects."
+> "Build things that people actually use."
 
 ---
 
@@ -150,4 +136,4 @@ graph TD
 
 ---
 
-<p align="center">⭐ If you like my work, consider giving a star</p>
+<p align="center">⭐ If you like my work, consider giving a star to my projects</p>
