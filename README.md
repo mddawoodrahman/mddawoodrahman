@@ -2,14 +2,16 @@
 
 <h1 align="center">Hi 👋, I'm Md Dawood Rahman</h1>
 
+<h3 align="center">Full Stack Engineer • AI Product Builder • Cloud Enthusiast</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;AI+Product+Builder;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Modern+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Modern+Applications;AI+Powered+SaaS+%26+Tools;From+Idea+→+Production;Clean+Code+%2B+Real+World+Impact" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mddawoodrahman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/mddawoodrahman"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/dawoodvibe"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mddawoodrahman"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://x.com/mddawoodrahman"><img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=twitter"/></a>
+  <a href="mailto:mddawoodrahman7@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
@@ -30,7 +32,7 @@ Core Skills:
   - AI: OpenAI, Gemini, Claude APIs
 
 Strength:
-  → Building real-world scalable products
+  → Building scalable, real-world products
 ```
 
 ---
@@ -39,25 +41,25 @@ Strength:
 
 ### 🧩 Medusa — Cloud Storage Platform
 
-* Secure file storage + sharing system
+* Secure file storage & sharing system
 * Drag & drop uploads + analytics dashboard
-* Public shareable links + real-time management
+* Public links + real-time file management
 
 ---
 
 ### 🏋️ Wixon Gym — AI Fitness SaaS
 
-* AI workout + nutrition assistant
-* Membership system + payments (PayPal)
+* AI workout & nutrition assistant
+* Membership system with payments
 * Role-based dashboard + booking system
 
 ---
 
 ### ⚡ Zeus — AI Chrome Extension
 
-* Auto-enhance prompts across ChatGPT, Gemini, Claude
+* Enhance prompts across ChatGPT, Gemini, Claude
 * One-click rewrite + context menu
-* Multi-model switching system
+* Multi-model AI switching system
 
 ---
 
@@ -112,28 +114,28 @@ Strength:
 
 ---
 
-## 🧩 What I’m Building
+## 🧩 Current Focus
 
-* AI-powered SaaS products
-* Scalable cloud-based platforms
-* Developer tools & browser extensions
+* 🚀 Building AI-powered SaaS products
+* ⚡ Scaling full-stack cloud applications
+* 🧠 Exploring advanced AI integrations
 
 ---
 
 ## 💡 Philosophy
 
-> "Build things that people actually use."
+> "Build products, not just projects."
 
 ---
 
-## ☕ Support
+## 📬 Open to Opportunities
 
-<p align="center">
-  <a href="https://buymeacoffee.com/mddawoodrahman">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>
-</p>
+* Internships
+* Freelance projects
+* Collaborations
+
+📩 **[mddawoodrahman7@gmail.com](mailto:mddawoodrahman7@gmail.com)**
 
 ---
 
-<p align="center">⭐ If you like my work, consider giving a star to my projects</p>
+<p align="center">⭐ If you like my work, consider giving a star</p>
