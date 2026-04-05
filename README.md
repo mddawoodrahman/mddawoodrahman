@@ -97,20 +97,7 @@ Strength:
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat\&logo=google)
 ![Claude](https://img.shields.io/badge/Claude-black?style=flat)
 
----
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mddawoodrahman&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mddawoodrahman&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mddawoodrahman&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 🧩 What I’m Building
 
