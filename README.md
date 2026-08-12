@@ -254,15 +254,6 @@ I enjoy designing systems where these layers work together as a **single product
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mddawoodrahman&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mddawoodrahman/mddawoodrahman/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 # 🎯 What I'm Building
 
